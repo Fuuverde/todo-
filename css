@@ -1,0 +1,12 @@
+html,body{width :960px;
+    margin:0% auto;
+    font-family: serif;}
+#table{font-size: 16px;
+    background-color: powderblue;
+    border-radius: 16px;  
+    height: 400px;
+    margin-top: 32px;    }
+li{font-size: 16px;
+    margin: 32px;
+    }
+    
